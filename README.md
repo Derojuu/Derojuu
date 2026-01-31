@@ -63,16 +63,12 @@ Each project includes clean code, clear structure, and real-world use cases.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Derojuu&show_icons=true&hide_border=true&theme=radical"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Derojuu&layout=compact&hide_border=true&theme=radical"
-    height="165"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Derojuu&theme=radical"
+    alt="GitHub Profile Summary"
   />
 </p>
 
