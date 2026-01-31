@@ -7,7 +7,7 @@
 
 <p align="center">
   <strong>Full-Stack Developer</strong><br/>
-  Building scalable web apps, dashboards & APIs with modern JavaScript stacks.
+  I build scalable web applications, dashboards, and APIs using modern JavaScript technologies.
 </p>
 
 <p align="center">
@@ -20,13 +20,33 @@
 
 ## 🚀 About Me
 
-I’m a **Full-Stack Developer** who enjoys turning complex problems into clean, usable web solutions.
+I’m a **Full-Stack Developer** with a strong interest in building practical, real-world web applications.
 
-- 💻 Strong with **Next.js, React, Node.js, MySQL**
-- 🧠 I focus on **real-world systems** (auth, dashboards, APIs, workflows)
-- 🧩 Love building products end-to-end — from UI to database
-- 🌍 Open to **remote roles**, collaborations, and open-source
-- ⚡ I value clean code, good UX, and systems that actually scale
+- 💻 Experienced with **Next.js, React, Node.js, and MySQL**
+- 🧠 I enjoy breaking down complex problems into simple, maintainable solutions
+- 🔐 Comfortable building authentication systems, dashboards, and APIs
+- 🌍 Open to **remote opportunities**, collaborations, and open-source work
+- ⚡ I value clean code, thoughtful UI, and systems that scale well
+
+---
+
+## 🔭 Currently Working On
+
+- Building full-stack applications with **Next.js and Node.js**
+- Improving backend architecture and API design
+- Developing admin dashboards and internal tools
+- Refining UI/UX patterns for better usability
+- Strengthening database design and query optimization skills
+
+---
+
+## 🧠 My Development Philosophy
+
+- Write **clean, readable, and maintainable code**
+- Prioritize **clarity over cleverness**
+- Build with **real users and real use cases** in mind
+- Avoid over-engineering — simplicity scales best
+- Focus on long-term reliability and performance
 
 ---
 
@@ -46,32 +66,60 @@ I’m a **Full-Stack Developer** who enjoys turning complex problems into clean,
 
 ---
 
-## 🏗️ What I Build
+## 🎯 Core Competencies
 
-- ✅ Full-stack web applications  
-- ✅ Authentication & authorization systems  
-- ✅ Admin dashboards & internal tools  
-- ✅ REST APIs & backend services  
-- ✅ Clean, responsive UI with modern UX patterns  
-
----
-
-## 📌 Featured Projects
-
-> Pinned repositories below showcase my best work 👇  
-Each project includes clean code, clear structure, and real-world use cases.
+- Full-Stack Web Development
+- REST API Design & Integration
+- Authentication & Authorization (JWT, Sessions)
+- Admin Dashboard & Internal Tool Development
+- Database Design & Optimization
+- Responsive & Accessible UI Development
 
 ---
 
-## 📊 GitHub Activity
+## 🏗️ Project Highlights
+
+- **Exam Complaint Management System**  
+  A full-stack web application for submitting, tracking, and managing exam-related complaints with role-based access control.
+
+- **Admin Dashboards & Internal Tools**  
+  Responsive dashboards designed for managing data, workflows, and application insights.
+
+- **Web Utilities & Practical Tools**  
+  Small but focused applications built with performance, usability, and clean UI in mind.
+
+> 📌 See pinned repositories below for detailed implementations.
+
+---
+
+## 🤝 Open To
+
+- Remote full-stack roles
+- Frontend or backend-focused positions
+- Contract or freelance projects
+- Open-source collaboration
+- Building early-stage products with small teams
+
+---
+
+## 📈 GitHub Activity
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Derojuu&theme=radical"
-    alt="GitHub Profile Summary"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Derojuu&theme=github-compact"
+    alt="GitHub activity graph"
   />
 </p>
 
+---
+
+## 📫 Let’s Connect
+
+- Portfolio: https://derojuu-portfolio.vercel.app  
+- Twitter (X): https://x.com/De_rojuu  
+- Email: odumboabdulwaris@gmail.com  
+
+<em>I enjoy building things that solve real problems and make life a little easier.</em>
 
 <!--
 Derojuu/Derojuu is a special repository.
