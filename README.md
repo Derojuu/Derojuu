@@ -66,15 +66,16 @@ Each project includes clean code, clear structure, and real-world use cases.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Derojuu&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Derojuu&layout=compact&theme=radical" height="165"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Derojuu&show_icons=true&hide_border=true&theme=radical"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Derojuu&layout=compact&hide_border=true&theme=radical"
+    height="165"
+  />
 </p>
 
----
-
-<p align="center">
-  <em>Always learning. Always building.</em>
-</p>
 
 <!--
 Derojuu/Derojuu is a special repository.
